@@ -1,8 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.koc.kocailem.dev",
-    "sha256_cert_fingerprints": ["EE:BE:51:54:42:3D:6A:1E:73:39:02:D0:9F:AC:6D:21:A6:C9:EB:72:EA:8D:69:D3:62:C5:27:E7:AC:C4:C4:98"]
-  }
-}]
+
